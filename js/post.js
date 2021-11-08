@@ -10,7 +10,7 @@ fetch(`https://jsonplaceholder.typicode.com/posts/${getId}`)
             <div class="col-md-12 mb-3">
             <div class="card h-100 bg-success">
             <div class="card-body">
-                    <div class="d-flex justify-content-end">
+                    <div class="d-flex justify-content-end">                                                                
                     <h6 class="text-warning">${e.id}</h6>
                     </div>
                     <div class="d-flex justify-content-center ">
